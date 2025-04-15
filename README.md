@@ -44,8 +44,10 @@ Welcome to my Week 1 workbook submission for the Data Technician course. This wo
   - Hands-on work with chart creation and visualization using `Day_3_Task_3_Bike_Sales_Visualisations_Lab.xlsx`
   - Explored how visuals enhance storytelling with data
 
-<img src="Images/ProductRevenueByCountry.png" width="500" >
-<img src="Images/RevenueComparisonByAge.png" width="500" >
+<div align="center">
+  <img src="Images/ProductRevenueByCountry.png" alt="Pivot Table" style="display: inline-block; width: 45%; max-width: 400px; margin: 0 1%;">
+  <img src="Images/RevenueComparisonByAge.png" alt="Sales Chart" style="display: inline-block; width: 45%; max-width: 400px; margin: 0 1%;">
+</div>
 
 ## 📌 Notes
 - Print screen evidence and formula demonstrations are embedded within the workbook
