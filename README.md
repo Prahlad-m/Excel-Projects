@@ -30,7 +30,7 @@ Welcome to my Week 1 workbook submission for the Data Technician course. This wo
   - Key insights:
     - Australia is the most profitable country
     - Adults and females lead in sales performance
-
+❮img src="images/you-picture.png" width="100" ❯
 - **Task 2: Sales Performance by County**
   - Built Pivot Tables summarizing sales by county and product
   - Used the `SWITCH` function to categorize sales volumes:
