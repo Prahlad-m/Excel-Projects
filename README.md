@@ -31,17 +31,21 @@ Welcome to my Week 1 workbook submission for the Data Technician course. This wo
     - Australia is the most profitable country
     - Adults and females lead in sales performance
 
-❮img src="Images/PivotTable.png" width="100" ❯
+<img src="Images/PivotTable.png" width="500" >
 
 - **Task 2: Sales Performance by County**
   - Built Pivot Tables summarizing sales by county and product
   - Used the `SWITCH` function to categorize sales volumes:
     - High (>600), Medium (300–600), Low (<300)
 
+<img src="Images/Switch.png" width="500" >
+
 - **Task 3: Data Visualizations**
   - Hands-on work with chart creation and visualization using `Day_3_Task_3_Bike_Sales_Visualisations_Lab.xlsx`
   - Explored how visuals enhance storytelling with data
 
+<img src="Images/ProductRevenueByCountry.png" width="500" >
+<img src="Images/RevenueComparisonByAge.png" width="500" >
 
 ## 📌 Notes
 - Print screen evidence and formula demonstrations are embedded within the workbook
